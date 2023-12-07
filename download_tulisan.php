@@ -218,7 +218,20 @@ Terima kasih untuk rekan-rekan bagi yang sudah berdonasi. Donasi dari teman-tema
 
 
 
+<center>
 
+<br>
+<br>
+  
+<p style="text-align:justify">
+
+<font style="color:red; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 5>
+<center>WA STATKOMAT: 0812 6200 4932</center>
+</font>
+</font>
+</p>
+</center>
 
 
 
