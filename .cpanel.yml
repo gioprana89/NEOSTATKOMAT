@@ -1,0 +1,13 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/statkoma/public_html/
+
+- /bin/cp index.php $DEPLOYPATH
+- /bin/cp download_tulisan.php $DEPLOYPATH
+- /bin/cp artikel internasional.php $DEPLOYPATH
+- /bin/cp artikel nasional.php $DEPLOYPATH
+- /bin/cp hak cipta.php $DEPLOYPATH
+- /bin/cp seminar dan pelatihan.php $DEPLOYPATH
+- /bin/cp file_css.css $DEPLOYPATH
+- /bin/cp -R gambar $DEPLOYPATH
