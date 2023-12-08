@@ -1426,6 +1426,10 @@ Judul Buku: <font color = "green">Two-Way ANOVA dengan SPSS, R & STATCAL</font><
 
 
 <td width = 300px>
+Author: <font color = "red">Prana Ugiana Gio</font><br>
+Judul Buku: <font color = "green">Kalkulus Integral: Contoh Kasus & Penyelesaian, Disertai Aplikasi Software Maple, Python & MATLAB</font><br>
+<center><a href = "https://drive.google.com/file/d/1Yh82eqN-4YXxHxSeSwzXFaN4Ir_DoQ6_/view?usp=sharing" target = "\blank"><font color = "red"><b>Download<b></font></a></center><br><br>
+<center><img src = "gambar/buku/17/Cover Buku Kalkulus Integral.png" width = 400px></img></center>
 
 </td>
 
