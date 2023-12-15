@@ -29,6 +29,7 @@
     <a href="artikel internasional.php">Artikel Jurnal Internasional</a>
     <a href="hak cipta.php">Hak Cipta</a>
     <a href="seminar dan pelatihan.php">Seminar dan Pelatihan</a>
+    <a href="donasi.php">Donasi</a>
 
   </div>
 
