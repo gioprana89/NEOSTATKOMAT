@@ -195,6 +195,55 @@ $jumlah_views = $result['items'][0]['statistics']['viewCount'];
 
 
 
+<br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+
+Author: <font color = "red">Rezzy Eko Caraka, Robert Kurniawan, Rung Ching Chen, Prana Ugiana Gio, Jamilatuzzahro Jamilatuzzahro, Bahrul Ilmi Nasution, Anjar Dimara Sakti, Muhammad Yunus Hendrawan, Bens Pardamean</font><br>
+Judul Artikel: <font color = "green">Strategic insights for MSMEs: navigating the new normal with big data and business analytics</font><br>
+Tahun: <font color = "grey">2023</font><br>
+Jurnal: <font color = "orange">Journal of Asia Business Studies</font><br>
+Link: <a href = "https://www.emerald.com/insight/content/doi/10.1108/JABS-10-2022-0354/full/html" target = "_blank">https://www.emerald.com/insight/content/doi/10.1108/JABS-10-2022-0354/full/html</a><br>
+
+<center><img src = "gambar/artikel jurnal internasional/1/13.png" width="250"></center>
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <br><br>
