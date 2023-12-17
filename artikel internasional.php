@@ -196,6 +196,203 @@ $jumlah_views = $result['items'][0]['statistics']['viewCount'];
 
 
 
+
+<br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+
+Author: <font color = "red">Robert Kurniawan, Novan Adi Adi Nugroho, Ahmad Fudholi, Agung Purwanto, Bagus Sumargo, Prana Ugiana Gio, Sri Kuswantono Wongsonadi</font><br>
+Judul Artikel: <font color = "green">The ecological footprint of industrial value added and energy consumption in Indonesia</font><br>
+Tahun: <font color = "grey">2023</font><br>
+Jurnal: <font color = "orange">International Journal of Energy Sector Management</font><br>
+Link: <a href = "https://www.emerald.com/insight/content/doi/10.1108/IJESM-05-2023-0006/full/html" target = "_blank">https://www.emerald.com/insight/content/doi/10.1108/IJESM-05-2023-0006/full/html</a><br>
+
+<center><img src = "gambar/artikel jurnal internasional/1/12.png" width="250"></center>
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+
+Author: <font color = "red">Budhi Fatanza Wiratama, Robert Kurniawan, Mulyanto, Mohamad Andrian Isnaeni, Bagus Sumargo, Prana Ugiana Gio</font><br>
+Judul Artikel: <font color = "green">Measuring the physical infrastructure development as poverty reduction program in Kalimantan, Indonesia</font><br>
+Tahun: <font color = "grey">2023</font><br>
+Jurnal: <font color = "orange">Cities</font><br>
+Link: <a href = "https://www.sciencedirect.com/science/article/abs/pii/S026427512300327X" target = "_blank">https://www.sciencedirect.com/science/article/abs/pii/S026427512300327X</a><br>
+
+<center><img src = "gambar/artikel jurnal internasional/1/11.png" width="250"></center>
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+
+Author: <font color = "red">Robert Kurniawan, Anas Rulloh Budi Alamsyah, Ahmad Fudholi, Agung Purwanto, Bagus Sumargo, Prana Ugiana Gio, Sri Kuswantono Wongsonadi, Alton Endarwanto Hadi Susanto</font><br>
+Judul Artikel: <font color = "green">Impacts of industrial production and air quality by remote sensing on nitrogen dioxide concentration and related effects: An econometric approach</font><br>
+Tahun: <font color = "grey">2023</font><br>
+Jurnal: <font color = "orange">Environmental Pollution</font><br>
+Link: <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0269749123012149" target = "_blank">https://www.sciencedirect.com/science/article/abs/pii/S0269749123012149</a><br>
+
+<center><img src = "gambar/artikel jurnal internasional/1/10.png" width="250"></center>
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br><br>
 
 
