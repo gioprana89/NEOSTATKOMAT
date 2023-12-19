@@ -1919,6 +1919,30 @@ Judul Buku: <font color = "green">Aplikasi Metode Newton-Raphson untuk Mengestim
 
 
 
+Author: <font color = "red">Prana Ugiana Gio</font><br>
+Judul Buku: <font color = "green">Aplikasi Metode Newton dalam Optimisasi</font><br>
+
+
+<center><br><a href = "https://drive.google.com/file/d/1AivzqywVvCAII4CPKcXF7tS1p1MkyA6t/view?usp=sharing" target = "\blank"><font color = "red"><b>Download PDF<b></font></a>
+
+| 
+
+<a href = "https://docs.google.com/document/d/1hKTFoTgzlskG-nsFoE6Y_iMlY-MZ-Osn/edit?usp=sharing&ouid=109101921572515471215&rtpof=true&sd=true" target = "\blank"><font color = "red"><b>Download Word<b></font></a>
+
+<br>
+<br>
+<font color = "blue">Diperbarui pada 19 Desember 2023</font>
+
+</center>
+
+
+
+<br><br>
+
+
+
+<center><img src = "gambar/buku/24/cover buku newton optimisasi.png" width = 400px></img></center>
+
 
 
 
