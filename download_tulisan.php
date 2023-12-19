@@ -1771,6 +1771,178 @@ Judul Buku: <font color = "green">Visualisasi Data dengan Python</font><br>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+
+
+
+
+
+
+<center>
+<table width = 1240 border = 0>
+    <tr>
+        <td width = 300px>
+
+        Author: <font color = "red">Prana Ugiana Gio</font><br>
+Judul Buku: <font color = "green">Regresi Logistik Multinomial dengan SPSS</font><br>
+
+
+<center><br><a href = "https://drive.google.com/file/d/1DH3qnNNvpdfMyreW34uuMwV2uD6QbkRH/view?usp=sharing" target = "\blank"><font color = "red"><b>Download PDF<b></font></a>
+
+| 
+
+<a href = "https://docs.google.com/document/d/1Gp4ux3tLq-8Jdk2jFa1fvJV5Qn34He_v/edit?usp=sharing&ouid=109101921572515471215&rtpof=true&sd=true" target = "\blank"><font color = "red"><b>Download Word<b></font></a>
+
+<br>
+<br>
+<font color = "blue">Diperbarui pada 19 Desember 2023</font>
+
+</center>
+
+
+
+<br><br>
+
+
+
+<center><img src = "gambar/buku/22/cover buku reglog multinomial.png" width = 400px></img></center>
+
+
+
+      </td>
+
+
+
+      <td width = 20>
+
+</td>
+
+
+
+
+
+<td width = 300px>
+
+
+
+</td>
+
+
+
+<td width = 20>
+
+</td>
+
+
+
+<td width = 300px valign = "top">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td>
+
+
+
+</tr></table></center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br><br>
 
 
