@@ -1690,6 +1690,51 @@ Judul Buku: <font color = "green">Principal Component Analysis (PCA) dengan R & 
 <td width = 300px valign = "top">
 
 
+
+
+
+
+Author: <font color = "red">Prana Ugiana Gio & Egi Akbar Anagio</font><br>
+Judul Buku: <font color = "green">Visualisasi Data dengan Python</font><br>
+
+
+<center><br><a href = "https://drive.google.com/file/d/1Fr_jKFu2B8RyUYurpM4FLK50bjG5nVr8/view?usp=sharing" target = "\blank"><font color = "red"><b>Download PDF<b></font></a>
+
+| 
+
+<a href = "https://docs.google.com/document/d/1nMtUpcM5jtQaopIcZo7BXILkkPkZjzb8/edit?usp=sharing&ouid=109101921572515471215&rtpof=true&sd=true" target = "\blank"><font color = "red"><b>Download Word<b></font></a>
+
+<br>
+<br>
+<font color = "blue">Diperbarui pada 19 Desember 2023</font>
+
+</center>
+
+
+
+<br><br>
+
+
+
+<center><img src = "gambar/buku/21/cover buku python.png" width = 400px></img></center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </td>
 
 
