@@ -1650,6 +1650,33 @@ Judul Buku: <font color = "green">Aljabar Linear: Contoh Kasus dan Penyelesaian 
 <td width = 300px>
 
 
+
+Author: <font color = "red">Prana Ugiana Gio</font><br>
+Judul Buku: <font color = "green">Principal Component Analysis (PCA) dengan R & Python</font><br>
+
+
+<center><br><a href = "https://drive.google.com/file/d/1Pq4Svrr-OpdDpcRR0gjXJniMit5ynDdr/view?usp=sharing" target = "\blank"><font color = "red"><b>Download PDF<b></font></a>
+
+| 
+
+<a href = "https://docs.google.com/document/d/1zpfJYqOPa8cZGRSNss3KbpgrptoY7pKl/edit?usp=sharing&ouid=109101921572515471215&rtpof=true&sd=true" target = "\blank"><font color = "red"><b>Download Word<b></font></a>
+
+<br>
+<br>
+<font color = "blue">Diperbarui pada 19 Desember 2023</font>
+
+</center>
+
+
+
+<br><br>
+
+
+
+<center><img src = "gambar/buku/20/cover buku PCA.png" width = 400px></img></center>
+
+
+
 </td>
 
 
