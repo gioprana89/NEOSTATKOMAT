@@ -169,7 +169,7 @@ $jumlah_views = $result['items'][0]['statistics']['viewCount'];
         <center>
 
   
-       Berikut beberapa hak kami.
+       Berikut beberapa hak kami ya.
 
 </center>
 
